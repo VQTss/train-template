@@ -1,0 +1,13 @@
+file csv
+csv + images
+images coco - object detection
+    - train
+        - images
+            - png/jepg
+        - labels
+            - txt
+    - test
+        - images
+            - png/jepg
+        - labels
+            - txt
